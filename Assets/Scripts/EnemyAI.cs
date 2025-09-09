@@ -136,7 +136,9 @@ public class EnemyAI : MonoBehaviour
     void DropGold()
     {
         if (goldPrefab != null && Random.value <= dropChance)
+        {
             Instantiate(goldPrefab, transform.position, Quaternion.identity);
+        }
     }
 
     // === Special Kill: bi?n m?t ngay ===

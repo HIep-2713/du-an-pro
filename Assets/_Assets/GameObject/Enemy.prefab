@@ -70,9 +70,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -439002373
-  m_SortingLayer: 0
-  m_SortingOrder: -1
+  m_SortingLayerID: 313440679
+  m_SortingLayer: 1
+  m_SortingOrder: 5
   m_Sprite: {fileID: 21300000, guid: 0ae4df65af59a684b8119ae1bd4cdd7e, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.4}
   m_FlipX: 0
@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 95493619144394822}
   - component: {fileID: 114551732444492355}
   - component: {fileID: -333491186761186134}
-  - component: {fileID: 8071817424230206007}
+  - component: {fileID: 164181131775114}
   m_Layer: 7
   m_Name: Enemy
   m_TagString: Enemy
@@ -243,8 +243,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!60 &8071817424230206007
-PolygonCollider2D:
+--- !u!61 &164181131775114
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -275,7 +275,7 @@ PolygonCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 16.790829, y: 20.93629}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.49055657, y: 0.48894787}
@@ -285,22 +285,6 @@ PolygonCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 51.057663, y: 49.061005}
-      - {x: -16.942337, y: 49.061005}
-      - {x: -24.942337, y: 41.061005}
-      - {x: -25.942337, y: -4.9389954}
-      - {x: -33.942337, y: 1.0610046}
-      - {x: -52.942337, y: -0.93899536}
-      - {x: -52.942337, y: -14.938995}
-      - {x: -49.942337, y: -19.938995}
-      - {x: -43.942337, y: -25.938995}
-      - {x: -25.9546, y: -15.705418}
-      - {x: -7.942337, y: -18.653996}
-      - {x: 16.979748, y: -16.551147}
-      - {x: 45.348644, y: -21.282587}
-      - {x: 54.057663, y: -21.116634}
-      - {x: 56.627296, y: -20.219402}
-      - {x: 57.057663, y: 43.061005}
-  m_UseDelaunayMesh: 0
+  serializedVersion: 2
+  m_Size: {x: 80.53367, y: 56.249428}
+  m_EdgeRadius: 0

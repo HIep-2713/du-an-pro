@@ -153,15 +153,6 @@ public class Player : MonoBehaviour
         // gọi luôn super hit (đạn bay ra)
         DoSuperHit();
     }
-
-
-    // Gọi từ animation event trong Super animation
-    // Gọi từ animation event trong Super animation
-    // Gọi từ animation event trong Super animation
-    // Gọi từ animation event trong Super animation
-    // Gọi từ animation event hoặc trực tiếp trong Special
-    // Gọi từ animation event hoặc trực tiếp trong Special
-    // Gọi trong DoSpecialKill()
     public void DoSuperHit()
     {
         // Bật animation super
@@ -226,9 +217,7 @@ public class Player : MonoBehaviour
 
             // 3. Đợi giữa các đợt
             yield return new WaitForSeconds(delay);
-        }
-
-        anim.Play("Idle");
+        }   
         OnSuperEnd();
     }
 
