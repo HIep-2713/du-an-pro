@@ -1,0 +1,6250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1528118566987822
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4998602057973835}
+  - component: {fileID: 114561080017580964}
+  - component: {fileID: 114862812026963638}
+  - component: {fileID: 114440453286535043}
+  - component: {fileID: 114057028059260570}
+  - component: {fileID: 114965413353406919}
+  - component: {fileID: 114877618464981264}
+  - component: {fileID: 114489046785982530}
+  - component: {fileID: 114598177007745915}
+  - component: {fileID: 114411644056753524}
+  - component: {fileID: 114137697439038290}
+  - component: {fileID: 114863840659521728}
+  - component: {fileID: 114366667146507447}
+  - component: {fileID: 114912994384059205}
+  - component: {fileID: 114052944841040248}
+  - component: {fileID: 114548952624032682}
+  - component: {fileID: 114532172370624225}
+  - component: {fileID: 114628777743039723}
+  - component: {fileID: 114072626544004344}
+  - component: {fileID: 114797725460003257}
+  - component: {fileID: 114371243457864513}
+  - component: {fileID: 114086676891733439}
+  - component: {fileID: 114936669033633535}
+  - component: {fileID: 114113198576040182}
+  - component: {fileID: 114478367312517271}
+  - component: {fileID: 114058431090045549}
+  - component: {fileID: 114286082691053773}
+  - component: {fileID: 114805645426100030}
+  - component: {fileID: 114668087619879040}
+  - component: {fileID: 114059542761465058}
+  - component: {fileID: 114308393030614102}
+  - component: {fileID: 114148853547418065}
+  - component: {fileID: 114683018747303794}
+  - component: {fileID: 114426880475965609}
+  - component: {fileID: 114805198284102808}
+  - component: {fileID: 114619478112142748}
+  - component: {fileID: 114142606042049450}
+  - component: {fileID: 114889159009228915}
+  - component: {fileID: 114568620325772810}
+  - component: {fileID: 114698897523465436}
+  - component: {fileID: 114072064100217713}
+  - component: {fileID: 114132983266457032}
+  - component: {fileID: 114586239746730304}
+  - component: {fileID: 114618173088845528}
+  - component: {fileID: 114562219913115030}
+  - component: {fileID: 114214240742623923}
+  - component: {fileID: 114353315341001841}
+  - component: {fileID: 114277559763928816}
+  - component: {fileID: 114623863696650644}
+  - component: {fileID: 114280468291362043}
+  - component: {fileID: 114370954544631969}
+  - component: {fileID: 114047246003639560}
+  - component: {fileID: 114402194031284244}
+  - component: {fileID: 114762174296495928}
+  - component: {fileID: 114839132463289568}
+  - component: {fileID: 114990829115770422}
+  - component: {fileID: 114692904501610268}
+  - component: {fileID: 114145552561918007}
+  - component: {fileID: 114778624709874987}
+  - component: {fileID: 114406439884811708}
+  - component: {fileID: 114692376893258860}
+  - component: {fileID: 114708424844900428}
+  - component: {fileID: 114864727908424056}
+  - component: {fileID: 114236036309244210}
+  - component: {fileID: 114015576307186041}
+  - component: {fileID: 114968795018319317}
+  - component: {fileID: 114928974121177314}
+  - component: {fileID: 114729236763656999}
+  - component: {fileID: 114123818882525018}
+  - component: {fileID: 114834953638429099}
+  - component: {fileID: 114835038760458724}
+  - component: {fileID: 114116412908444650}
+  - component: {fileID: 114767874335695309}
+  - component: {fileID: 114328426911385923}
+  - component: {fileID: 114491041856243674}
+  - component: {fileID: 114764125066490683}
+  - component: {fileID: 114254860684364375}
+  - component: {fileID: 114650988899248468}
+  - component: {fileID: 114914849325041177}
+  - component: {fileID: 114182683191367578}
+  - component: {fileID: 114006407562271615}
+  - component: {fileID: 114394446789350460}
+  - component: {fileID: 114118072099408371}
+  - component: {fileID: 114228882799837783}
+  - component: {fileID: 114285227010790367}
+  - component: {fileID: 114041626457763952}
+  - component: {fileID: 114662790600656512}
+  - component: {fileID: 114109658898321773}
+  - component: {fileID: 114666440850784377}
+  - component: {fileID: 114836197906227046}
+  - component: {fileID: 114120960991749419}
+  - component: {fileID: 114829858941350860}
+  - component: {fileID: 114688389182908938}
+  - component: {fileID: 114617230439896376}
+  - component: {fileID: 114760265194229013}
+  - component: {fileID: 114439004089822672}
+  - component: {fileID: 114563209803691528}
+  - component: {fileID: 114197547970498506}
+  - component: {fileID: 114392440352119161}
+  - component: {fileID: 114523476487916853}
+  - component: {fileID: 114273839746558129}
+  - component: {fileID: 114553128191189651}
+  - component: {fileID: 114356094252565776}
+  - component: {fileID: 114348680840996818}
+  - component: {fileID: 114668541269622319}
+  - component: {fileID: 114811341504429497}
+  - component: {fileID: 114926602939589002}
+  - component: {fileID: 114317619812065808}
+  - component: {fileID: 114053925355015546}
+  - component: {fileID: 114033428950953342}
+  - component: {fileID: 114418582254671614}
+  - component: {fileID: 114377917055314918}
+  - component: {fileID: 114476885364132765}
+  - component: {fileID: 114838331060589341}
+  - component: {fileID: 114900511142406876}
+  - component: {fileID: 114947470830631862}
+  - component: {fileID: 114435887915193693}
+  - component: {fileID: 114639225009186906}
+  - component: {fileID: 114213461892805346}
+  - component: {fileID: 114478432413108219}
+  - component: {fileID: 114059676988433711}
+  - component: {fileID: 114035315961395143}
+  - component: {fileID: 114424723019248883}
+  - component: {fileID: 114397144155310399}
+  - component: {fileID: 114437297690930880}
+  - component: {fileID: 114819345849210182}
+  - component: {fileID: 114299018311833668}
+  - component: {fileID: 114174531745787186}
+  - component: {fileID: 114763835590934779}
+  - component: {fileID: 114417349304878355}
+  - component: {fileID: 114422866377403169}
+  - component: {fileID: 114313569565188335}
+  - component: {fileID: 114598221533950100}
+  - component: {fileID: 114077250393582057}
+  - component: {fileID: 114860766647527103}
+  m_Layer: 0
+  m_Name: InAudio AudioSave
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4998602057973835
+Transform:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114561080017580964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 216158479
+  _type: 0
+  _nodeData: {fileID: 114862812026963638}
+  Name: Audio Root
+  _parent: {fileID: 0}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114965413353406919}
+  - {fileID: 114489046785982530}
+--- !u!114 &114862812026963638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114440453286535043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1587605595
+  _type: 1
+  _nodeData: {fileID: 114057028059260570}
+  Name: UI sounds
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114317619812065808}
+  - {fileID: 114033428950953342}
+  - {fileID: 114377917055314918}
+  - {fileID: 114838331060589341}
+  - {fileID: 114174531745787186}
+--- !u!114 &114057028059260570
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114965413353406919
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1967520056
+  _type: 1
+  _nodeData: {fileID: 114877618464981264}
+  Name: In-game sounds
+  _parent: {fileID: 114561080017580964}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114411644056753524}
+  - {fileID: 114947470830631862}
+  - {fileID: 114639225009186906}
+  - {fileID: 114478432413108219}
+  - {fileID: 114035315961395143}
+  - {fileID: 114397144155310399}
+  - {fileID: 114819345849210182}
+--- !u!114 &114877618464981264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114489046785982530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 931829916
+  _type: 1
+  _nodeData: {fileID: 114598177007745915}
+  Name: CharSounds
+  _parent: {fileID: 114561080017580964}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114863840659521728}
+  - {fileID: 114912994384059205}
+--- !u!114 &114598177007745915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114411644056753524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1205149787
+  _type: 2
+  _nodeData: {fileID: 114137697439038290}
+  Name: ShSound
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114137697439038290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 0.503
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 190
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: d62f19e96aab36e4d9262dbf0ab291e2, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114863840659521728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1510744833
+  _type: 1
+  _nodeData: {fileID: 114366667146507447}
+  Name: Char slider
+  _parent: {fileID: 114489046785982530}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114406439884811708}
+  - {fileID: 114708424844900428}
+  - {fileID: 114236036309244210}
+  - {fileID: 114968795018319317}
+  - {fileID: 114729236763656999}
+  - {fileID: 114834953638429099}
+  - {fileID: 114116412908444650}
+  - {fileID: 114328426911385923}
+  - {fileID: 114764125066490683}
+  - {fileID: 114650988899248468}
+  - {fileID: 114182683191367578}
+  - {fileID: 114394446789350460}
+  - {fileID: 114228882799837783}
+  - {fileID: 114041626457763952}
+  - {fileID: 114109658898321773}
+  - {fileID: 114836197906227046}
+  - {fileID: 114829858941350860}
+  - {fileID: 114617230439896376}
+  - {fileID: 114439004089822672}
+  - {fileID: 114197547970498506}
+  - {fileID: 114523476487916853}
+  - {fileID: 114553128191189651}
+  - {fileID: 114348680840996818}
+  - {fileID: 114811341504429497}
+  - {fileID: 114417349304878355}
+  - {fileID: 114313569565188335}
+--- !u!114 &114366667146507447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114912994384059205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 993031724
+  _type: 1
+  _nodeData: {fileID: 114052944841040248}
+  Name: Char powerup
+  _parent: {fileID: 114489046785982530}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children:
+  - {fileID: 114548952624032682}
+  - {fileID: 114628777743039723}
+  - {fileID: 114797725460003257}
+  - {fileID: 114086676891733439}
+  - {fileID: 114113198576040182}
+  - {fileID: 114058431090045549}
+  - {fileID: 114805645426100030}
+  - {fileID: 114059542761465058}
+  - {fileID: 114148853547418065}
+  - {fileID: 114426880475965609}
+  - {fileID: 114889159009228915}
+  - {fileID: 114619478112142748}
+  - {fileID: 114698897523465436}
+  - {fileID: 114132983266457032}
+  - {fileID: 114618173088845528}
+  - {fileID: 114214240742623923}
+  - {fileID: 114277559763928816}
+  - {fileID: 114280468291362043}
+  - {fileID: 114047246003639560}
+  - {fileID: 114762174296495928}
+  - {fileID: 114990829115770422}
+  - {fileID: 114145552561918007}
+  - {fileID: 114077250393582057}
+  - {fileID: 114440453286535043}
+--- !u!114 &114052944841040248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1008e2dc9c478fd96b99597dfcb5e4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  ExternalPlacement: 0
+  OverrideParentBank: 0
+  BankLink: {fileID: 114178607587032821, guid: 8d01c7eabb48bd04c88634bfa08c32a8, type: 2}
+  VolumeMin: 1
+  runtimeVolume: 1
+--- !u!114 &114548952624032682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1637255441
+  _type: 2
+  _nodeData: {fileID: 114532172370624225}
+  Name: Baseman
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114532172370624225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: b696a20ab3594f64d8329743a98f8c08, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114628777743039723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 794664211
+  _type: 2
+  _nodeData: {fileID: 114072626544004344}
+  Name: Bruce
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114072626544004344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: cc83c4467c8f2b445a6d720bdae49756, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114797725460003257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 546138861
+  _type: 2
+  _nodeData: {fileID: 114371243457864513}
+  Name: Buddah
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114371243457864513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 6ec9a7be7577fca46aa7823a4d0f05c3, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114086676891733439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 189711170
+  _type: 2
+  _nodeData: {fileID: 114936669033633535}
+  Name: Cat
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114936669033633535
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 7def16724127c2540bdb5b3b6b6b9e31, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114113198576040182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 793697726
+  _type: 2
+  _nodeData: {fileID: 114478367312517271}
+  Name: Dundee
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114478367312517271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 5eb81b58847a6a347900357f24bab959, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114058431090045549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 360450960
+  _type: 2
+  _nodeData: {fileID: 114286082691053773}
+  Name: Dolphin
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114286082691053773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 587a0fec8b04adc49b5ddc34d04f5005, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114805645426100030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1189363794
+  _type: 2
+  _nodeData: {fileID: 114668087619879040}
+  Name: Fish
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114668087619879040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 32eb9fab4a4d0f6458e1c5894e6daea0, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114059542761465058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2076046625
+  _type: 2
+  _nodeData: {fileID: 114308393030614102}
+  Name: Foodie
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114308393030614102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0.003
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 6ca45e33ada275747a007866d6f3dfc8, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114148853547418065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1428122764
+  _type: 2
+  _nodeData: {fileID: 114683018747303794}
+  Name: Helicopter
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114683018747303794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: c5a577a3d2484164788d945bbbf13043, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114426880475965609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 417241334
+  _type: 2
+  _nodeData: {fileID: 114805198284102808}
+  Name: Ikar
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114805198284102808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 755f058f16504344ca3c1ea37bd1bb92, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114619478112142748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2081398250
+  _type: 2
+  _nodeData: {fileID: 114142606042049450}
+  Name: Joan3
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114142606042049450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: b29d99c92a1a69440a1a4d22837572b1, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114889159009228915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1524216036
+  _type: 2
+  _nodeData: {fileID: 114568620325772810}
+  Name: John
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114568620325772810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: f53d8074aa3d061418a305684348f2d9, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114698897523465436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 670309823
+  _type: 2
+  _nodeData: {fileID: 114072064100217713}
+  Name: Monk
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114072064100217713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 4f6a85518d299a045836792de73e55b4, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114132983266457032
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1840245895
+  _type: 2
+  _nodeData: {fileID: 114586239746730304}
+  Name: Panda
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114586239746730304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 81c81aa082d98e44f8b1fc00721eacff, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114618173088845528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 328842402
+  _type: 2
+  _nodeData: {fileID: 114562219913115030}
+  Name: Pelican
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114562219913115030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: d63b4b4bc578fb042bbe33e006d3ca2f, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114214240742623923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1770495120
+  _type: 2
+  _nodeData: {fileID: 114353315341001841}
+  Name: Photon
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114353315341001841
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 871fe6b362b726a49a6d9bf0abae40ee, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114277559763928816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 794992127
+  _type: 2
+  _nodeData: {fileID: 114623863696650644}
+  Name: Pig_powerup
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114623863696650644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 591eef9044ac0594fa1d401f534e689d, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114280468291362043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1677943390
+  _type: 2
+  _nodeData: {fileID: 114370954544631969}
+  Name: Ranger
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114370954544631969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: a30f68d989e6ee642a937eda296c068f, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114047246003639560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 258037667
+  _type: 2
+  _nodeData: {fileID: 114402194031284244}
+  Name: Samurai
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114402194031284244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: f69ec54870b8fc145a3b9645249190c1, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114762174296495928
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1634515940
+  _type: 2
+  _nodeData: {fileID: 114839132463289568}
+  Name: Vampiro
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114839132463289568
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 66afca4ac1acf96409b603161259835c, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114990829115770422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1351145485
+  _type: 2
+  _nodeData: {fileID: 114692904501610268}
+  Name: Viking
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114692904501610268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 7d7ee8430e0590a4ca64e9a613b8b429, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114145552561918007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 592459262
+  _type: 2
+  _nodeData: {fileID: 114778624709874987}
+  Name: Zombo
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114778624709874987
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 55bb1429e03c4b84796910f91cacb25e, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114406439884811708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1953956715
+  _type: 2
+  _nodeData: {fileID: 114692376893258860}
+  Name: BruceSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114692376893258860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 668eb98b6358eb049a6c16f39b873a92, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114708424844900428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1626718847
+  _type: 2
+  _nodeData: {fileID: 114864727908424056}
+  Name: BuddahSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114864727908424056
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0.001
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 8460b18eee688374684e5879f38641f1, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114236036309244210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1640654129
+  _type: 2
+  _nodeData: {fileID: 114015576307186041}
+  Name: CatSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114015576307186041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 6fe7a3d6d92d6ca46adc93d04e61a7da, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114968795018319317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2012935139
+  _type: 2
+  _nodeData: {fileID: 114928974121177314}
+  Name: CrocodileSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114928974121177314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0.001
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: b7843d451427bfe46bb6a92758266961, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114729236763656999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1417640973
+  _type: 2
+  _nodeData: {fileID: 114123818882525018}
+  Name: DolphinSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114123818882525018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: a55a0c32610a8d34192fb2f4a09162dd, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114834953638429099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 773166056
+  _type: 2
+  _nodeData: {fileID: 114835038760458724}
+  Name: DundeeSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114835038760458724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 83ffb30b62f7b16499c2375a07fb4e2f, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114116412908444650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1845904246
+  _type: 2
+  _nodeData: {fileID: 114767874335695309}
+  Name: ErrorSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114767874335695309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: f292d40a310fd07478b9f4a61aff7ee7, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114328426911385923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 721872057
+  _type: 2
+  _nodeData: {fileID: 114491041856243674}
+  Name: FishSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114491041856243674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 8221830d9c76d5543b47b0c59f3d3a92, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114764125066490683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1142828663
+  _type: 2
+  _nodeData: {fileID: 114254860684364375}
+  Name: FoodieSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114254860684364375
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: dfc7cd3e3b15dfe498dcdf742976ecc0, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114650988899248468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 289369159
+  _type: 2
+  _nodeData: {fileID: 114914849325041177}
+  Name: HelicopterSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114914849325041177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0.001
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 56b0d55b34ad86e488397435c1d7855a, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114182683191367578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1800695084
+  _type: 2
+  _nodeData: {fileID: 114006407562271615}
+  Name: IkarSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114006407562271615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 7f0806fea5eee55479d1fcb36fc1255e, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114394446789350460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 876793774
+  _type: 2
+  _nodeData: {fileID: 114118072099408371}
+  Name: JoanSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114118072099408371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 13cd993328801c840983aff11b9bc930, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114228882799837783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 439749075
+  _type: 2
+  _nodeData: {fileID: 114285227010790367}
+  Name: JohnSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114285227010790367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: e6cf36396e76abd4aab6be191779b78f, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114041626457763952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1617900765
+  _type: 2
+  _nodeData: {fileID: 114662790600656512}
+  Name: MonkSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114662790600656512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0.003
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 735ff1721c6c03c418cd02f5cf347a58, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114109658898321773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 826259818
+  _type: 2
+  _nodeData: {fileID: 114666440850784377}
+  Name: PandaSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114666440850784377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 76dfc2082ef1a7e49908e2dc11139ff0, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114836197906227046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 525752443
+  _type: 2
+  _nodeData: {fileID: 114120960991749419}
+  Name: PelicanSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114120960991749419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 98303e3e8ed08e244a43aaf4e2ea7ca2, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114829858941350860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 860758791
+  _type: 2
+  _nodeData: {fileID: 114688389182908938}
+  Name: PhotonSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114688389182908938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2e76cf512e59e9a42bdc40b497f8f9a9, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114617230439896376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1659195665
+  _type: 2
+  _nodeData: {fileID: 114760265194229013}
+  Name: PigSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114760265194229013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2fa5878a37834a84789ec8b1575dc154, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114439004089822672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1243654514
+  _type: 2
+  _nodeData: {fileID: 114563209803691528}
+  Name: RangerSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114563209803691528
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 7319599e03a9dd248996709c76c5d935, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114197547970498506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 930920332
+  _type: 2
+  _nodeData: {fileID: 114392440352119161}
+  Name: SamuraiSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114392440352119161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 66ea13a94a494024e9651a7c77bbdea8, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114523476487916853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1120265391
+  _type: 2
+  _nodeData: {fileID: 114273839746558129}
+  Name: SenseySlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114273839746558129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 376a7e9e1888104458018ab51c0d4b7d, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114553128191189651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 337063830
+  _type: 2
+  _nodeData: {fileID: 114356094252565776}
+  Name: VampiroSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114356094252565776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2b4c8d37ddfc285458c1a70be88b111e, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114348680840996818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 704411226
+  _type: 2
+  _nodeData: {fileID: 114668541269622319}
+  Name: VikingSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114668541269622319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 31883b7396a73e246ab39a50a0b4977d, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114811341504429497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 862933128
+  _type: 2
+  _nodeData: {fileID: 114926602939589002}
+  Name: ZomboSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114926602939589002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 27a83935af6d04247aac8b4497baec21, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114317619812065808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1499009757
+  _type: 2
+  _nodeData: {fileID: 114053925355015546}
+  Name: Button
+  _parent: {fileID: 114440453286535043}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114053925355015546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: c2b842d0ab24a4f488b236688445eb91, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114033428950953342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 392016468
+  _type: 2
+  _nodeData: {fileID: 114418582254671614}
+  Name: New_best
+  _parent: {fileID: 114440453286535043}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114418582254671614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 74527f2b6bf502c46bff0d1a1bb50d89, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114377917055314918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 901019639
+  _type: 2
+  _nodeData: {fileID: 114476885364132765}
+  Name: Pop_up
+  _parent: {fileID: 114440453286535043}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114476885364132765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: fb683f8a1d4725d40afc71a277e2b54d, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114838331060589341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1623888676
+  _type: 2
+  _nodeData: {fileID: 114900511142406876}
+  Name: Score_count_loop
+  _parent: {fileID: 114440453286535043}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114900511142406876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 1
+  LoopInfinite: 1
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 1
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 1ace036fc36073544b89bf9934c47450, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114947470830631862
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 41433429
+  _type: 2
+  _nodeData: {fileID: 114435887915193693}
+  Name: Coin
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114435887915193693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 0.5
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1.5
+  MaxPitch: 2.1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: bb8ef8cbbbfda234f8ac41fe74f8cb2f, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114639225009186906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 167121878
+  _type: 2
+  _nodeData: {fileID: 114213461892805346}
+  Name: Death
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114213461892805346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2a8d5480d22ef3943af367677be4ddea, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114478432413108219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1822556443
+  _type: 2
+  _nodeData: {fileID: 114059676988433711}
+  Name: Empty_punch
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114059676988433711
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: b0ebc622d8f12f14ca709e7da1b33880, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114035315961395143
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2130107278
+  _type: 2
+  _nodeData: {fileID: 114424723019248883}
+  Name: Full_energy
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114424723019248883
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: b1dbde418ee49e244abca1600bdffc41, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114397144155310399
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2009490939
+  _type: 2
+  _nodeData: {fileID: 114437297690930880}
+  Name: Punch_0
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114437297690930880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 4420ddea53635824d87f34e1f517fd12, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114819345849210182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 707146789
+  _type: 2
+  _nodeData: {fileID: 114299018311833668}
+  Name: Punch_1
+  _parent: {fileID: 114965413353406919}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114299018311833668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2d8aab45c40bb994bb29d60521476502, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114174531745787186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1685940895
+  _type: 2
+  _nodeData: {fileID: 114763835590934779}
+  Name: Slider
+  _parent: {fileID: 114440453286535043}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114763835590934779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 2528cde856892484aa3d92cffdb1c310, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114417349304878355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 2132208233
+  _type: 2
+  _nodeData: {fileID: 114422866377403169}
+  Name: BasemanSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114422866377403169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 6fb2da28aa4ea234aae03438fa383ffb, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114313569565188335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 769061565
+  _type: 2
+  _nodeData: {fileID: 114598221533950100}
+  Name: AndroidSlider
+  _parent: {fileID: 114863840659521728}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114598221533950100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: c94a97e73850fee43b716aae1110910b, type: 3}
+  LoadedFromAssetBundle: 0
+--- !u!114 &114077250393582057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d1f77744efb0171e5ba39114062f87, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  _guid: 1562489268
+  _type: 2
+  _nodeData: {fileID: 114860766647527103}
+  Name: Android
+  _parent: {fileID: 114912994384059205}
+  OverrideParentMixerGroup: 0
+  MixerGroup: {fileID: 0}
+  _children: []
+--- !u!114 &114860766647527103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528118566987822}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a8308e315cdbb6b7e20bacc642a9347, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  RandomVolume: 0
+  MinVolume: 1
+  MaxVolume: 1
+  RandomizeDelay: 0
+  InitialDelayMin: 0
+  InitialDelayMax: 0
+  RandomPitch: 0
+  MinPitch: 1
+  MaxPitch: 1
+  RandomBlend: 0
+  MinBlend: 0
+  MaxBlend: 1
+  Loop: 0
+  LoopInfinite: 0
+  RandomizeLoops: 0
+  MinIterations: 1
+  MaxIterations: 1
+  OverrideAttenuation: 0
+  MinDistance: 1
+  MaxDistance: 500
+  RolloffMode: 0
+  LimitInstances: 0
+  MaxInstances: 1
+  InstanceStealingTypes: 0
+  Priority: 128
+  RandomSecondsOffset: 0
+  MinSecondsOffset: 0
+  MaxSecondsOffset: 0
+  FalloffCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _clip: {fileID: 8300000, guid: 8fd6f7fc03870fb42960d5de3a70cef0, type: 3}
+  LoadedFromAssetBundle: 0
